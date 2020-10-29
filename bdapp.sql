@@ -1,0 +1,30 @@
+{ 
+  "transacoes":[
+    {
+  "id": "1",
+  "descricao": "conta de luz",
+  "dataVencimento": "20/10/2020",
+  "tipoReceita": 1,
+  "valor": "19.85",
+  "parcelasQtd": 1 
+    },
+    {
+  "id": "2",
+  "descricao": "Caiu salário",
+  "dataVencimentoInicial": "20/10/2020",
+  "dataVencimentoFinal": "20/10/2020",
+  "tipoReceita": 2,
+  "valor": "2000.0",
+  "parcelasQtd": 1 
+    },
+    {
+  "id": "2",
+  "descricao": "Fatura Nubank",
+  "dataVencimentoInicial": "20/10/2020",
+  "dataVencimentoFinal": "20/1/2021",
+  "tipoReceita": 1,
+  "valor": "6000.0",
+  "parcelasQtd": 3 
+    }
+  ]
+}
